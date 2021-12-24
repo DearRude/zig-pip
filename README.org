@@ -1,0 +1,11 @@
+#+TITLE: Point in Polygon in Zig
+
+A small zig package to calculate the famous Point in Polygon problem.
+
+** Algorithms
+- [X] Winding number
+- [ ] Ray casting
+
+
+** License
+GPLv3

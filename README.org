@@ -8,4 +8,4 @@ A small zig package to calculate the famous Point in Polygon problem.
 
 
 ** License
-GPLv3
+MIT
